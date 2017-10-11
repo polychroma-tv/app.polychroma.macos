@@ -4,6 +4,6 @@ TV Polychroma for macOS is a native Mac client for viewing TV Polychroma, a 24/7
 Version 1.1:
 - Updated player
 
-Requirements
+Requirements:
 - Intel (32/64)
 - macOS 10.8 or later
