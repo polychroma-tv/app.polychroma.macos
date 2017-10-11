@@ -1,0 +1,466 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		F73925051F8EC87900D3EA3C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 360FDEB51EBB46610027849B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F73924EE1F8EC87800D3EA3C;
+			remoteInfo = "TV Polychroma";
+		};
+		F73925101F8EC87900D3EA3C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 360FDEB51EBB46610027849B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F73924EE1F8EC87800D3EA3C;
+			remoteInfo = "TV Polychroma";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		360FDEC01EBB46610027849B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		360FDEC21EBB46610027849B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		360FDEC41EBB46610027849B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		360FDEC71EBB46610027849B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		360FDEC91EBB46610027849B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F7336B3E1F8ECAC8007F5F99 /* TV PolychromaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "TV PolychromaTests.xctest"; path = "/Users/zacharygray/Downloads/Google-Docs-for-Mac-master/build/Debug/TV PolychromaTests.xctest"; sourceTree = "<absolute>"; };
+		F7336B3F1F8ECAC8007F5F99 /* TV PolychromaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "TV PolychromaUITests.xctest"; path = "/Users/zacharygray/Downloads/Google-Docs-for-Mac-master/build/Debug/TV PolychromaUITests.xctest"; sourceTree = "<absolute>"; };
+		F73924EF1F8EC87800D3EA3C /* TV Polychroma.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TV Polychroma.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F73924EC1F8EC87800D3EA3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F73925011F8EC87900D3EA3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F739250C1F8EC87900D3EA3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		360FDEB41EBB46610027849B = {
+			isa = PBXGroup;
+			children = (
+				360FDEBF1EBB46610027849B /* TV Polychroma */,
+				F73924EF1F8EC87800D3EA3C /* TV Polychroma.app */,
+			);
+			sourceTree = "<group>";
+		};
+		360FDEBF1EBB46610027849B /* TV Polychroma */ = {
+			isa = PBXGroup;
+			children = (
+				360FDEC01EBB46610027849B /* AppDelegate.swift */,
+				360FDEC21EBB46610027849B /* ViewController.swift */,
+				360FDEC41EBB46610027849B /* Assets.xcassets */,
+				360FDEC61EBB46610027849B /* Main.storyboard */,
+				360FDEC91EBB46610027849B /* Info.plist */,
+			);
+			path = "TV Polychroma";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F73924EE1F8EC87800D3EA3C /* TV Polychroma */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F73925161F8EC87900D3EA3C /* Build configuration list for PBXNativeTarget "TV Polychroma" */;
+			buildPhases = (
+				F73924EB1F8EC87800D3EA3C /* Sources */,
+				F73924EC1F8EC87800D3EA3C /* Frameworks */,
+				F73924ED1F8EC87800D3EA3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "TV Polychroma";
+			productName = "TV Polychroma";
+			productReference = F73924EF1F8EC87800D3EA3C /* TV Polychroma.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F73925031F8EC87900D3EA3C /* TV PolychromaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F73925191F8EC87900D3EA3C /* Build configuration list for PBXNativeTarget "TV PolychromaTests" */;
+			buildPhases = (
+				F73925001F8EC87900D3EA3C /* Sources */,
+				F73925011F8EC87900D3EA3C /* Frameworks */,
+				F73925021F8EC87900D3EA3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F73925061F8EC87900D3EA3C /* PBXTargetDependency */,
+			);
+			name = "TV PolychromaTests";
+			productName = "TV PolychromaTests";
+			productReference = F7336B3E1F8ECAC8007F5F99 /* TV PolychromaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F739250E1F8EC87900D3EA3C /* TV PolychromaUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F739251C1F8EC87900D3EA3C /* Build configuration list for PBXNativeTarget "TV PolychromaUITests" */;
+			buildPhases = (
+				F739250B1F8EC87900D3EA3C /* Sources */,
+				F739250C1F8EC87900D3EA3C /* Frameworks */,
+				F739250D1F8EC87900D3EA3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F73925111F8EC87900D3EA3C /* PBXTargetDependency */,
+			);
+			name = "TV PolychromaUITests";
+			productName = "TV PolychromaUITests";
+			productReference = F7336B3F1F8ECAC8007F5F99 /* TV PolychromaUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		360FDEB51EBB46610027849B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Polychroma, LLC.";
+				TargetAttributes = {
+					F73924EE1F8EC87800D3EA3C = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					F73925031F8EC87900D3EA3C = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = F73924EE1F8EC87800D3EA3C;
+					};
+					F739250E1F8EC87900D3EA3C = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = F73924EE1F8EC87800D3EA3C;
+					};
+				};
+			};
+			buildConfigurationList = 360FDEB81EBB46610027849B /* Build configuration list for PBXProject "TV Polychroma" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 360FDEB41EBB46610027849B;
+			productRefGroup = 360FDEB41EBB46610027849B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F73924EE1F8EC87800D3EA3C /* TV Polychroma */,
+				F73925031F8EC87900D3EA3C /* TV PolychromaTests */,
+				F739250E1F8EC87900D3EA3C /* TV PolychromaUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F73924ED1F8EC87800D3EA3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F73925021F8EC87900D3EA3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F739250D1F8EC87900D3EA3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F73924EB1F8EC87800D3EA3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F73925001F8EC87900D3EA3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F739250B1F8EC87900D3EA3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F73925061F8EC87900D3EA3C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F73924EE1F8EC87800D3EA3C /* TV Polychroma */;
+			targetProxy = F73925051F8EC87900D3EA3C /* PBXContainerItemProxy */;
+		};
+		F73925111F8EC87900D3EA3C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F73924EE1F8EC87800D3EA3C /* TV Polychroma */;
+			targetProxy = F73925101F8EC87900D3EA3C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		360FDEC61EBB46610027849B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				360FDEC71EBB46610027849B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		360FDECA1EBB46610027849B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		360FDECB1EBB46610027849B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+			};
+			name = Release;
+		};
+		F73925171F8EC87900D3EA3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "TV Polychroma/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.polychroma.TV-Polychroma";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		F73925181F8EC87900D3EA3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "TV Polychroma/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.polychroma.TV-Polychroma";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		F739251A1F8EC87900D3EA3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "TV PolychromaTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.polychroma.TV-PolychromaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TV Polychroma.app/Contents/MacOS/TV Polychroma";
+			};
+			name = Debug;
+		};
+		F739251B1F8EC87900D3EA3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "TV PolychromaTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.polychroma.TV-PolychromaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TV Polychroma.app/Contents/MacOS/TV Polychroma";
+			};
+			name = Release;
+		};
+		F739251D1F8EC87900D3EA3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "TV PolychromaUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.polychroma.TV-PolychromaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "TV Polychroma";
+			};
+			name = Debug;
+		};
+		F739251E1F8EC87900D3EA3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "TV PolychromaUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.polychroma.TV-PolychromaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "TV Polychroma";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		360FDEB81EBB46610027849B /* Build configuration list for PBXProject "TV Polychroma" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				360FDECA1EBB46610027849B /* Debug */,
+				360FDECB1EBB46610027849B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F73925161F8EC87900D3EA3C /* Build configuration list for PBXNativeTarget "TV Polychroma" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F73925171F8EC87900D3EA3C /* Debug */,
+				F73925181F8EC87900D3EA3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F73925191F8EC87900D3EA3C /* Build configuration list for PBXNativeTarget "TV PolychromaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F739251A1F8EC87900D3EA3C /* Debug */,
+				F739251B1F8EC87900D3EA3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F739251C1F8EC87900D3EA3C /* Build configuration list for PBXNativeTarget "TV PolychromaUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F739251D1F8EC87900D3EA3C /* Debug */,
+				F739251E1F8EC87900D3EA3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 360FDEB51EBB46610027849B /* Project object */;
+}
