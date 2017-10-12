@@ -7,3 +7,7 @@ Version 1.1:
 Requirements:
 - Intel (32/64)
 - macOS 10.8 or later
+
+Available via:
+- Amazon: https://www.amazon.com/dp/B0768D7LVV/
+- MacUpdate: https://www.macupdate.com/app/mac/60044/tv-polychroma
